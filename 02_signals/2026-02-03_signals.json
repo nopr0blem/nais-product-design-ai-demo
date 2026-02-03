@@ -1,0 +1,93 @@
+[
+  {
+    "id": "sig_2026_02_03_001",
+    "source": "userback",
+    "date": "2026-02-03",
+    "product": "libellia",
+    "country": "FR",
+    "persona": "pediatre",
+    "theme": "synthese_patient",
+    "severity": "high",
+    "context": "ouverture_dossier",
+    "verbatim": "Je ne comprends pas en quelques secondes si l’enfant va bien ou non.",
+    "redacted": true
+  },
+  {
+    "id": "sig_2026_02_03_002",
+    "source": "support",
+    "date": "2026-02-03",
+    "product": "libellia",
+    "country": "FR",
+    "persona": "medecin_generaliste",
+    "theme": "charge_cognitive",
+    "severity": "medium",
+    "context": "consultation",
+    "verbatim": "Il y a beaucoup d’informations affichées mais je cherche surtout les alertes importantes.",
+    "redacted": true
+  },
+  {
+    "id": "sig_2026_02_03_003",
+    "source": "interview",
+    "date": "2026-02-03",
+    "product": "studio",
+    "country": "IT",
+    "persona": "pediatra",
+    "theme": "priorisation_clinique",
+    "severity": "high",
+    "context": "prima_visita",
+    "verbatim": "Durante la prima visita non vedo subito le informazioni cliniche prioritarie.",
+    "redacted": true
+  },
+  {
+    "id": "sig_2026_02_03_004",
+    "source": "userback",
+    "date": "2026-02-03",
+    "product": "studio",
+    "country": "IT",
+    "persona": "medico_generale",
+    "theme": "navigation",
+    "severity": "low",
+    "context": "scheda_paziente",
+    "verbatim": "La navigazione è chiara ma potrei andare più veloce se le informazioni chiave fossero messe in evidenza.",
+    "redacted": true
+  },
+  {
+    "id": "sig_2026_02_03_005",
+    "source": "support",
+    "date": "2026-02-03",
+    "product": "libellia",
+    "country": "FR",
+    "persona": "pediatre",
+    "theme": "donnees_pediatriques",
+    "severity": "high",
+    "context": "suivi_enfant",
+    "verbatim": "Les courbes et les percentiles sont présents mais pas assez visibles dans la synthèse.",
+    "redacted": true
+  },
+  {
+    "id": "sig_2026_02_03_006",
+    "source": "interview",
+    "date": "2026-02-03",
+    "product": "libellia",
+    "country": "FR",
+    "persona": "medecin_generaliste",
+    "theme": "vue_patient",
+    "severity": "medium",
+    "context": "ouverture_dossier",
+    "verbatim": "La vue patient est la même pour tous mes patients, quel que soit l’âge ou le contexte.",
+    "redacted": true
+  },
+  {
+    "id": "sig_2026_02_03_007",
+    "source": "userback",
+    "date": "2026-02-03",
+    "product": "studio",
+    "country": "IT",
+    "persona": "pediatra",
+    "theme": "vaccination",
+    "severity": "medium",
+    "context": "controllo_periodico",
+    "verbatim": "Le informazioni sui vaccini non sono immediatamente distinguibili dal resto.",
+    "redacted": true
+  }
+]
