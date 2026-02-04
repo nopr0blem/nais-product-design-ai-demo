@@ -118,59 +118,6 @@
     "redacted": true
   },
   {
-    "id": "sig_2026_02_03_103",
-    "source": "support",
-    "date": "2026-02-03",
-    "product": "studio",
-    "country": "IT",
-    "persona": "medico_generale",
-    "theme": "carico_cognitivo",
-    "severity": "medium",
-    "context": "visita",
-    "verbatim": "Ci sono molte informazioni ma non tutte sono rilevanti.",
-    "redacted": true
-  },
-  {
-    "id": "sig_2026_02_03_104",
-    "source": "interview",
-    "date": "2026-02-03",
-    "product": "studio",
-    "country": "IT",
-    "persona": "pediatra",
-    "theme": "prioritizzazione_clinica",
-    "severity": "high",
-    "context": "prima_visita",
-    "verbatim": "Durante la prima visita non emergono le priorità cliniche.",
-    "redacted": true
-  },
-  {
-    "id": "sig_2026_02_03_105",
-    "source": "userback",
-    "date": "2026-02-03",
-    "product": "studio",
-    "country": "IT",
-    "persona": "pediatra",
-    "theme": "vaccinazioni",
-    "severity": "medium",
-    "context": "controllo_periodico",
-    "verbatim": "Le informazioni sui vaccini non sono immediatamente distinguibili.",
-    "redacted": true
-  },
-  {
-    "id": "sig_2026_02_03_106",
-    "source": "support",
-    "date": "2026-02-03",
-    "product": "studio",
-    "country": "IT",
-    "persona": "medico_generale",
-    "theme": "navigazione",
-    "severity": "low",
-    "context": "scheda_paziente",
-    "verbatim": "La navigazione è chiara ma potrebbe essere più veloce.",
-    "redacted": true
-  },
-
-  {
     "id": "sig_2026_02_03_201",
     "source": "userback",
     "date": "2026-02-03",
